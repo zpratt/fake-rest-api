@@ -2,7 +2,7 @@
   "name": "fake-rest-api",
   "version": "1.0.0",
   "description": "fake rest api",
-  "main": "index.js",
+  "main": "lib/server.js",
   "scripts": {
     "start": "node index.js",
     "test": "node_modules/.bin/eslint lib index.js"
